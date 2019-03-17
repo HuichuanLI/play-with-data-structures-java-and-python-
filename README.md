@@ -11,5 +11,8 @@
 
 
 
-
-
+| ** 第二章高级排序算法 ** |  java |
+| :--- | :----: | 
+| 1-1 归并排序- Merge Sort  |[java](https://github.com/HuichuanLI/java/tree/master/ch1%20o(n2)/selection%20sort) |
+| 1-2   归并排序法的优化 - Merge Sort | [java](https://github.com/HuichuanLI/java/tree/master/ch1%20o(n2)/insertion%20sort)   |
+| 1-3  自底向上的归并排序算法 Merge Sort | [java](https://github.com/HuichuanLI/java/tree/master/ch1%20o(n2)/shellsort)    |

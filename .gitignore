@@ -1,2 +1,10 @@
 
 \.DS_Store
+
+python/\.idea/encodings\.xml
+
+python/\.idea/libraries/R_User_Library\.xml
+
+python/\.vscode/settings\.json
+
+python/\.idea/

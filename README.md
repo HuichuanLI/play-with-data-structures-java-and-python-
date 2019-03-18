@@ -13,3 +13,5 @@
 | 2-2   归并排序法的优化 - Merge Sort | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/merge%20sort%20improvement)   |
 | 2-3  自底向上的归并排序算法 Merge Sort | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/merge%20sort%20bu)    |
 | 2-4  快速排序法 - Quick Sort	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/merge%20sort%20bu)    |
+| 2-5  随机快速排序法 - Random Quick Sort	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/merge%20sort%20bu)    |
+

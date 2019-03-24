@@ -18,6 +18,8 @@
 | ** 第三章 数据结构 (数组)** |  java |
 | 3-1 数组 - Array	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)    |
 | 3-2 栈- Stack	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E6%A0%88)    |
-| 3-3 队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
+| 3-3 队列1- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
+| 3-4 循环队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/循环队列)    |
+
 
 

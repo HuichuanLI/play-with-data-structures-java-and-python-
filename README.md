@@ -16,8 +16,8 @@
 | 2-5  随机快速排序法 - Random Quick Sort	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/random%20quick%20sort)    |
 | 2-5  三路快速排序法 - Random Quick Sort 3 ways	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/quick%20sort%203%20ways)    |
 | ** 第三章 数据结构 (数组)** |  java |
-| 3-1 数组 - Array	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84)    |
-| 3-2 栈- Stack	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84)    |
-| 3-3 队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84)    |
+| 3-1 数组 - Array	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)    |
+| 3-2 栈- Stack	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E6%A0%88)    |
+| 3-3 队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
 
 

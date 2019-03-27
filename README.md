@@ -21,9 +21,9 @@
 | 3-3 队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
 | 3-4 循环队列- Queue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/循环队列)    |
 | ** 第四章 数据结构 (链表)** |  java |
-| 3-1 链表 - Linklist	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)    |
-| 3-2 链表栈- linklistStack	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E6%A0%88)    |
-| 3-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
+| 4-1 链表 - Linklist	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-1)    |
+| 4-2 链表栈- linklistStack	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-2)    |
+| 4-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-3)    |
 
 
 

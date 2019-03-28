@@ -1,6 +1,7 @@
-# data-structure-java
+# Data structure java and python 
 
-
+update python version 
+objectif : realsize all the data structure by java and python 
 
 
 | ** 第一章 排序基础 ** |  java | python |

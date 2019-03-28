@@ -23,7 +23,7 @@
 | ** 第四章 数据结构 (链表)** |  java |
 | 4-1 链表 - Linklist	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-1)    |
 | 4-2 链表栈- linklistStack	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-2)    |
-| 4-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-3)    |
+| 4-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-4)    |
 
 
 

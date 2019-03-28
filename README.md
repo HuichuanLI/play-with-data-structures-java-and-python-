@@ -25,6 +25,14 @@
 | 4-2 链表栈- linklistStack	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-2)    |
 | 4-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-3)    |
 | 4-4 leetcode203- linklistQueue	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-4)    |
+| ** 第五章 数据结构 (二分查找树)** |  java |
+| 5-1 树- binary search tree	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-4)    |
+| 5-2 leetcode804- binary search tree	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-4)    |
+| 5-3 删除子节点- binary search tree	 | [java](https://github.com/HuichuanLI/java-and-python-/tree/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%93%BE%E8%A1%A8/4-4)    |
+
+
+
+
 
 
 

@@ -3,8 +3,8 @@
 
 
 
-| ** 第一章 排序基础 ** |  java |
-| :--- | :----: | 
+| ** 第一章 排序基础 ** |  java | python |
+| :--- | :----: |  :--- |
 | 1-1 选择排序 - Selection Sort  |[java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%8E%92%E5%BA%8F%E5%9F%BA%E7%A1%80/selection%20sort) |
 | 1-2   插入排序法 - Insertion Sort | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%8E%92%E5%BA%8F%E5%9F%BA%E7%A1%80/insertion%20sort)   |
 | 1-3  更多关于O(n^2)排序算法的思考 shell Sort | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%8E%92%E5%BA%8F%E5%9F%BA%E7%A1%80/shellsort)    |

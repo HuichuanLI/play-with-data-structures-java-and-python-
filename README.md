@@ -24,6 +24,8 @@
 | 3-1 链表 - Linklist	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)    |
 | 3-2 链表栈- linklistStack	 | [java](https://github.com/HuichuanLI/java/tree/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E7%BB%84/%E6%A0%88)    |
 | 3-3 链表队列- linklistQueue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
+| 3-4 leetcode203- linklistQueue	 | [java](https://github.com/HuichuanLI/java/tree/master/第三章数组/队列)    |
+
 
 
 

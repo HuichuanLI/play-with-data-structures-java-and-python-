@@ -8,3 +8,5 @@ python/\.idea/libraries/R_User_Library\.xml
 python/\.vscode/settings\.json
 
 python/\.idea/
+
+python/linklist/__pycache__/

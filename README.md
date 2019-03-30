@@ -31,10 +31,8 @@ objectif : realsize all the data structure by java and python
 | 5-1 树- binary search tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%BA%94%E7%AB%A0%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E6%A0%91/5-1)    |
 | 5-2 leetcode804- binary search tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%BA%94%E7%AB%A0%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E6%A0%91/5-2)    |
 | 5-3 删除子节点- binary search tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%BA%94%E7%AB%A0%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E6%A0%91/5-1)    |
-
-
-
-
+| ** 第六章 数据结构 (集合和映射)** |  java |
+| 6-1 集合-Set	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%9B%86%E5%90%88%E5%92%8C%E6%98%A0%E5%B0%84/%E9%9B%86%E5%90%88)    |
 
 
 

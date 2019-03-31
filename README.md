@@ -36,6 +36,8 @@ objectif : realsize all the data structure by java and python
 | 6-2 集合-Map	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/第六章集合和映射/映射)    |
 | ** 第七章 数据结构 (堆和优先队列)** |  java |
 | 7-1 堆-Heap	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A0%86%E5%92%8C%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)    |
+| ** 第八章 数据结构 (线段树) ** |  java |
+| 8-1 线段树-Segment tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%BA%BF%E6%AE%B5%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91)    |
 
 
 

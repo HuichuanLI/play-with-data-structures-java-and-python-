@@ -42,7 +42,7 @@ class MaxHeap:
             self._data.swap(k, self._parent(k))
             k = self._parent(k)
 
-    def __sift_down(self,k):
+    def _sift_down(self,k):
         while self._left_child(k) < self._data.get_size():
             j = self._left_child(k)
             if j + 1 < self._data.get_size() and self._data.get(j + 1) > self._data.get(j):
@@ -53,17 +53,34 @@ class MaxHeap:
                 k = j
 
             
-
-
     def find_max(self):
         if self._data.get_size() == 0:
             raise ValueError('Can not find_max when heap is empty.')
         return self._data.get(0)
+
+    def replace(self,e):
+        ret = self.find_max()
+        self._data.set(0, e)
+        self._sift_down(0)
+        return ret
     
-    
+    def extract_max(self):
+        ref = self.find_max()
+        self._data.swap(0,self._data.get_size()-1)
+        self._data.remove_last()
+        self._sift_down(0)
+        return ref
+
+    def HeapSort(self,alist):
+        MaxHeap(alist)
+        sortedList=[self.extract_max() for x in range(self._data.get_size())]
+        sortedList.reverse()
+        return sortedList
+
+
 
 if __name__ == '__main__':
-    n = 10000000
+    n = 10
     from time import time
 
     start_time1 = time()
@@ -71,15 +88,16 @@ if __name__ == '__main__':
     from random import randint
     for i in range(n):
         max_heap.add(randint(0, 1000))
-    print('heap add: ', time() - start_time1) 
-
+ 
     start_time2 = time()
     arr = Array()
     from random import randint
     for i in range(n):
-        arr.add_last(randint(0, 1000))
+        num = randint(0, 10)
+        arr.add_last(num)
+        
     max_heap = MaxHeap(arr)
-    print('heapify: ', time() - start_time2) # heapify:  4.680660963058472
-
+    print(max_heap.extract_max())
 
     
+

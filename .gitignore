@@ -10,3 +10,9 @@ python/\.vscode/settings\.json
 python/\.idea/
 
 python/linklist/__pycache__/
+
+*.iml
+
+*.xml
+
+第十一章 红黑树/\.idea/

@@ -40,6 +40,12 @@ objectif : realsize all the data structure by java and python
 | 8-1 线段树-Segment tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%BA%BF%E6%AE%B5%E6%A0%91/%E7%BA%BF%E6%AE%B5%E6%A0%91)    |
 | ** 第九章 数据结构 (并查集) ** |  java |
 | 9-1 并查集-Union find	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%B9%B6%E6%9F%A5%E9%9B%86)    |
+| ** 第十章 数据结构(字典树) ** |  java |
+| 10-1 字典树-trie	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%B9%B6%E6%9F%A5%E9%9B%86)    |
+| ** 第十一章 数据结构(红黑树) ** |  java |
+| 11-1 红黑树-RedBlack tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%B9%B6%E6%9F%A5%E9%9B%86)    |
+| ** 第十二章 数据结构(AVL树) ** |  java |
+| 11-1 AVL树-AVL tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%B9%B6%E6%9F%A5%E9%9B%86)    |
 
 
 

@@ -46,10 +46,8 @@ objectif : realsize all the data structure by java and python
 | 11-1 红黑树-RedBlack tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20%E7%BA%A2%E9%BB%91%E6%A0%91/src)    |
 | ** 第十二章 数据结构(AVL树) ** |  java |
 | 12-1 AVL树-AVL tree	 | [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20AVL)    |
-
-| ** 第十三章 数据结构(AVL树) ** |  java |
+| ** 第十三章 数据结构(hash table) ** |  java |
 | 13-1 hash table| [java](https://github.com/HuichuanLI/play-with-data-structures-java-and-python-/tree/master/%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%20hash%E8%A1%A8/src)    |
-
 
 
 

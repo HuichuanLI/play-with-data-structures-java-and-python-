@@ -37,5 +37,7 @@ public class main {
 //       hash 需要判断两个变量是相等
         Student student2 =  new Student(3,2,"bobo","liu");
         System.out.println(student2.hashCode());
+
+
     }
 }

@@ -9,13 +9,18 @@ public class HashTable<K, V> {
     private TreeMap<K, V>[] hashtable;
     private int M;
     private int size;
+    private final int[] capacity
+            = {53, 97, 193, 389, 769, 1543, 3079, 6151, 12289, 24593,
+            49157, 98317, 196613, 393241, 786433, 1572869, 3145739, 6291469,
+            12582917, 25165843, 50331653, 100663319, 201326611, 402653189, 805306457, 1610612741};
+
     private static final int upperTol = 10;
     private static final int lowerTol = 2;
-    private static final int initCapacity = 7;
+    private int CapacityIndex = 0;
 
 
-    public HashTable(int m) {
-        this.M = m;
+    public HashTable() {
+        this.M = capacity[CapacityIndex];
         size = 0;
         hashtable = new TreeMap[M];
         for (int i = 0; i < M; i++) {
@@ -23,9 +28,6 @@ public class HashTable<K, V> {
         }
     }
 
-    public HashTable() {
-        this(97);
-    }
 
     private int hash(K key) {
         return (key.hashCode() & 0x7fffffff) % M;
@@ -43,8 +45,9 @@ public class HashTable<K, V> {
         else
             map.put(key, value);
         size++;
-        if (size >= upperTol * M) {
-            resize(2 * M);
+        if (size >= upperTol * M && CapacityIndex < capacity.length) {
+            CapacityIndex++;
+            resize(capacity[CapacityIndex]);
         }
     }
 
@@ -68,8 +71,9 @@ public class HashTable<K, V> {
         if (map.containsKey(key)) {
             ret = map.remove(key);
             size--;
-            if (size < lowerTol * M && M >= initCapacity) {
-                resize(M / 2);
+            if (size < lowerTol * M && CapacityIndex > 0) {
+                CapacityIndex--;
+                resize(capacity[CapacityIndex]);
             }
         }
 

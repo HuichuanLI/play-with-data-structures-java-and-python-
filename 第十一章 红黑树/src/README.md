@@ -9,4 +9,4 @@
 ### 红黑树与2·3树的等价性 理解了2-3树和红黑树之间的关系 红黑树并不难！
 ### 满足二分搜索树的基本性质 节点可以存放一个元素或者两个元素
 #### 每个节点有2个或者3个孩子 2-3树
-[link]https://lhc14124908.gitbook.io/-1/hong-hei-shu-de-ding-yi
+[link](https://lhc14124908.gitbook.io/-1/hong-hei-shu-de-ding-yi)

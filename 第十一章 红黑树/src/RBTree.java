@@ -45,6 +45,23 @@ public class RBTree<K extends Comparable<K>, V> {
         return size == 0;
     }
 
+    private void filpColors(Node node){
+        node.color = RED;
+        node.left.color = Black;
+        node.right.color = Black;
+    }
+
+
+    private Node rightRotate(Node node){
+        Node x = node.left;
+        node.left = x.right;
+        x.right = node;
+        x.color = node.color;
+        node.color = RED;
+        return x;
+    }
+
+
     private Node leftRotate(Node node) {
 
         Node x = node.right;
@@ -65,7 +82,7 @@ public class RBTree<K extends Comparable<K>, V> {
 
 
 
-    // 向以node为根的二分搜索树中插入元素(key, value)，递归算法
+    // 向以node为根的红黑树中插入元素(key, value)，递归算法
     // 返回插入新节点后二分搜索树的根
     private Node add(Node node, K key, V value) {
 
@@ -80,6 +97,17 @@ public class RBTree<K extends Comparable<K>, V> {
             node.right = add(node.right, key, value);
         else // key.compareTo(node.key) == 0
             node.value = value;
+
+        if(isRed(node.right) && !isRed(node.left)){
+            node = leftRotate(node);
+        }
+
+        if(isRed(node.left) && isRed(node.left.left)){
+            node = rightRotate(node);
+        }
+        if(isRed(node.left) && isRed(node.right)){
+            filpColors(node);
+        }
 
         return node;
     }
